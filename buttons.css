@@ -1,0 +1,22 @@
+body {
+	overflow: hidden;
+	background-color: #99ccff;
+}
+#page {
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	border: 5px solid grey;
+	padding: 20px 0 20px 20px;
+	background-image: url('../buttons-template/images/bg0.jpg');
+}
+button {
+	border: none;
+	background-color: #2ecc71;
+	color: white;
+	padding: 10px 20px 10px 20px;
+}
+#img0 {
+	float: right;
+	padding-top: 75%;
+}
